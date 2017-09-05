@@ -1,0 +1,11 @@
+//
+//  Config.Debug.xcconfig
+//  SampleConfig
+//
+//  Created by nagisa-kosuge on 2017/09/04.
+//  Copyright © 2017年 RyoKosuge. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-SampleConfig/Pods-SampleConfig.debug.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER=com.example.SampleConfig.debug
